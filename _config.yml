@@ -1,10 +1,12 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
+title: 0x0 # name of the site
+author: SiberiaOreMine # name of site's author
+email:  # email of site's author
 url: https://siberiaoremine.github.io # root address of the site
 baseurl: "/0x0" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+ Кто-то устроен иначе, но
+ Лачуга архимага
+ Изначально спроектирована неправильно.
 
 permalink: /:slug.html
 
