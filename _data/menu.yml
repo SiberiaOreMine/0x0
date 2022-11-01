@@ -2,21 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Информация
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
+      - title: Что-то устроено иначе, но лачуга архимага изначально спроектирована неправильно.
+      - title: Steam
+        url: https://steamcommunity.com/id/succ3ss0r
+      
+  - title: Посты
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Просмотреть архив...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: Посты по категориям
     post_list:
       category: example2
       show_more: true
